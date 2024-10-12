@@ -3,7 +3,7 @@ This project is a Java-based web application for managing booking reservations. 
 
 Features:  
 
-User-friendly interface for booking management
-Java servlet handling for backend processing
-Responsive design using CSS and JavaScript
+-User-friendly interface for booking management  
+-Java servlet handling for backend processing  
+-Responsive design using CSS and JavaScript  
 
